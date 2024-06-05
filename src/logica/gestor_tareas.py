@@ -4,7 +4,6 @@ class Tarea:
         self.descripcion = descripcion
         self.completada = False
 
-
 class GestorTareas:
     def __init__(self):
         self.tareas = []
